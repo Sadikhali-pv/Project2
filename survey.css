@@ -1,0 +1,25 @@
+label{
+    display: inline-block;
+    width: 250px;
+
+}
+form{
+
+margin-left: 25%;
+
+
+}
+p{
+text-align: center;
+
+}
+ input{
+
+
+    margin-bottom: 5px;
+ }
+ body{
+
+border-left: 15px solid rgb(176, 239, 247) ;
+border-right: 15px solid rgb(176, 239, 247) ;
+ }

@@ -1,0 +1,50 @@
+section{
+   
+  text-align: center;
+  position: relative;top: 2cm;
+
+
+}
+#hi{
+  font-size: 40px;
+
+position: relative;left: -3cm;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+#para1{
+
+
+
+  position: relative;top:-6.5cm;
+  border-bottom: 1px solid black;
+  border-right: 2px solid black;
+width: 247px;
+padding: 9px;
+margin-top: -1cm;
+
+
+}
+li{
+  
+
+position: relative;top: -7cm;
+
+
+  list-style-type:none;
+  border-bottom: 1px solid black;width: 250px;
+  padding: 7px;
+border-right: 2px solid black;
+
+
+
+
+
+}
+#border{
+
+position: relative;top: 1.2cm;
+}

@@ -1,0 +1,51 @@
+a{
+text-decoration: none;
+color: aliceblue;
+
+
+}
+nav{
+    background-color: black;
+    padding: 10px;
+display: flex;
+justify-content: center;
+flex-direction: row;
+}
+img{
+    border-radius: .3cm;
+    border-left: 1cm;border-color: black;
+height: 390px;width: 300px;
+position: relative;left:200px ;top: -210px;
+
+}
+section{
+
+position: relative;left: 800px;top: 70px;
+
+
+}
+div{
+background-color: gainsboro;
+height: 500px;
+position: relative;top:-18px;
+
+}
+
+button{
+    
+    height: 30px;
+    color: aliceblue;
+background-color: orange;
+border: none;
+border-radius: 5%;
+
+
+}
+#para1{
+
+    position: relative;top: -50px;
+    margin-left: -800px;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    }

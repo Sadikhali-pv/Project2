@@ -1,0 +1,43 @@
+
+#avic{
+
+height: 1.5cm;width: 1.5cm;
+position: relative;top:-.05cm;left: .3cm;
+
+
+
+}
+
+
+a{
+   margin-left: .5cm;
+    text-decoration: none;
+    color: black;
+    position: relative;left: 20cm;top: -.9cm;
+   
+}
+nav{
+    
+
+display: flex;
+flex-direction: row;
+}
+img{
+   position: relative;top: -.4cm;
+   width: 1200px;
+   height: 500px;
+
+
+}
+section{
+    color: black;
+    text-align: center;
+    
+    }
+    div{
+        
+        position: relative;top: -10cm;
+
+     color: white;
+    }
+
